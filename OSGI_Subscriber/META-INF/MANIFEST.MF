@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_Subscriber
+Bundle-SymbolicName: OSGI_Subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.osgi_subscriber.SubscriberActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: OSGI_Subscriber
+Import-Package: com.laptopcart,
+ com.laptopstore,
+ org.osgi.framework;version="1.3.0"
+Require-Bundle: LaptopPayment;bundle-version="1.0.0"

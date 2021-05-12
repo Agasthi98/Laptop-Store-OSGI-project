@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LaptopStore
+Bundle-SymbolicName: LaptopStoreProducer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.laptopstore.LaptopActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: LaptopStoreProducer
+Import-Package: com.laptopcart,
+ com.laptopstore,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.laptopstore
