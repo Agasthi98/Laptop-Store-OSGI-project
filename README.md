@@ -7,3 +7,4 @@
      * LaptopStore
    * Subscriber
      * Customer(OSGI_Subscriber)
+* You should run them seperately :fire:
