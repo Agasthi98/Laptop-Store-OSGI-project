@@ -1,2 +1,2 @@
 ### Laptop Store System using OSGI-Framework
-*gg
+* Simple producer & councumer project using OSGI Framework
